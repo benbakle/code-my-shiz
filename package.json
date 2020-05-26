@@ -1,0 +1,14 @@
+{
+  "name": "code-my-shiz",
+  "version": "1.0.0",
+  "description": "JavaScript HTML code block formatter",
+  "main": "code-my-shiz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Benjamin Bakle",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
